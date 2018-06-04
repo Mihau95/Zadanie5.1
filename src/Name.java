@@ -1,9 +1,9 @@
 public class Name {
     public static void main(String[] args) {
-        String [] = {"Wojtek", "Arek", "Anna"};
+        String [] name = {"Wojtek", "Arek", "Anna"};
 
-        for (int n=0; n<name.length; n++){
-            System.out.println(name[n]);
+        for (int i=0; i<name.length; i++){
+            System.out.println(name[i]);
         }
     }
 }
